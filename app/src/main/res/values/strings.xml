@@ -1,0 +1,20 @@
+<resources>
+    <string-array name="items_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 4</item>
+        <item>Item 5</item>
+        <item>Item 6</item>
+        <item>Item 7</item>
+    </string-array>
+    <string name="app_name">Task_5</string>
+    <string name="store">Магазин</string>
+    <string name="to_scroll_view">К ScrollView</string>
+    <string name="to_spinner">К Spinner</string>
+    <string name="add">Добавить</string>
+    <string name="add_name">Введите имя</string>
+    <string name="some_text">Some text</string>
+
+
+</resources>
